@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgio-zarantonello&show_icons=true)
-</p>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giorgio-zarantonello&show_icons=true" />
+</a></p>
