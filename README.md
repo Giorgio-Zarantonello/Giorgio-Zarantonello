@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently working on my Last Exams ;
 - 🌱 I’m currently learning [The Complete React Native + Hooks Course](https://github.com/Giorgio-Zarantonello/React-native-course) ;
-- 💬 Ask me about anything, I am happy to help ;
+- 💬 Ask me about anything, I am happy to network ;
 - 📫 How to reach me: giorgio.zarantonello@gmail.com ;
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgio-zarantonello&show_icons=true&theme=cobalt) 
