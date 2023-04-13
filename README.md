@@ -27,12 +27,3 @@ You can use the website to generate badges: https://shields.io/
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgio-zarantonello&show_icons=true&theme=cobalt) 
 
 
----
-
-<div align="center">
-<h3 align="center">Ciao , sono Zara</h3>
-
-
-  <p margin-bottom="200px"/>
-  
-</div>
