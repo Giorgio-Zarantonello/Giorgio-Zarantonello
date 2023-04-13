@@ -14,6 +14,7 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Talking about you -->
 <img width="20%" align="right" alt="Github" src="https://user-images.githubusercontent.com/20912128/231866857-63360e27-c694-4e39-9414-4e99d80cb057.png"/>
+
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
