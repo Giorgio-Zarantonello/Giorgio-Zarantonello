@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+<h3 align="center">Gestore Noleggi Auto - QT Framework</h3>
 
+<img width="200"  alt="image" src="https://user-images.githubusercontent.com/20912128/231865539-cd2995c2-f115-4a2b-8ae2-07436d8f1a71.png">
+
+  <p margin-bottom="200px"/>
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgio-zarantonello&show_icons=true&theme=cobalt) 
 </div>
