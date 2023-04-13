@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h3 align="center">Ciao , sono Zara</h3>
 
-<img width="200"  alt="image" src="https://user-images.githubusercontent.com/20912128/231865539-cd2995c2-f115-4a2b-8ae2-07436d8f1a71.png">
+<img width="200"  alt="image" src="https://user-images.githubusercontent.com/20912128/231866857-63360e27-c694-4e39-9414-4e99d80cb057.png">
 
   <p margin-bottom="200px"/>
   
