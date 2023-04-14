@@ -1,5 +1,6 @@
 
-## Hi, I'm Giorgio Zarantonello, a Developer 🚀 from Italy.
+<h1 align="center">Hi 👋, I'm Giorgio Zarantonello</h1>
+<h3 align="center">A passionate developer from Italy</h3>
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
