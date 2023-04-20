@@ -34,10 +34,11 @@ You can use the website to generate badges: https://shields.io/
 
 <div align="center">
 
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgio-zarantonello&show_icons=true&locale=en&layout=compact&theme=transparent" alt="giorgio-zarantonello" /></p>
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgio-zarantonello&show_icons=true&locale=en&layout=compact" alt="giorgio-zarantonello" /></p>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgio-zarantonello&show_icons=true&theme=transparent)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giorgio-zarantonello&show_icons=true&locale=en" alt="giorgio-zarantonello" /></p>
+
   
 </div>
 
