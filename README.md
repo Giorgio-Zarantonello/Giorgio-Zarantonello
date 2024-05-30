@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 
 
-- 👨🏽‍💻 I’m a Founder/CTO @ [PadoveOnline.net][(https://www.padovaonline.net/) (Padova - italy) ;
+- 👨🏽‍💻 I’m a Founder/CTO @ [PadoveOnline.net](https://www.padovaonline.net/) (Padova - italy) ;
 - 🌱 My last Completed Course is : [The Complete React Native + Hooks Course](https://github.com/Giorgio-Zarantonello/React-native-course) ;
 - 💬 Ask me about anything, I am happy to network ;
 - 📫 How to reach me: giorgio.zarantonello@gmail.com ;
