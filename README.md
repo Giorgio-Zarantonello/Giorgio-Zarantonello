@@ -13,11 +13,6 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:giorgio.zarantonello@gmail.com)
 </div>
 
-&nbsp;
-
-<!-- Talking about you -->
-<img width="20%" align="right" alt="Github" src="https://user-images.githubusercontent.com/20912128/231866857-63360e27-c694-4e39-9414-4e99d80cb057.png"/>
-
 
 <div align="center">
 
